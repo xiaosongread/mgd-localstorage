@@ -1,11 +1,4 @@
-# markdownlint
-
-> A Node.js style checker and lint tool for Markdown/CommonMark files.
-
-[![npm version][npm-image]][npm-url]
-[![Build status][travis-image]][travis-url]
-[![Coverage][coveralls-image]][coveralls-url]
-[![License][license-image]][license-url]
+# mgd-localstorage
 
 ## Install
 
